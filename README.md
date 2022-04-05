@@ -1,4 +1,4 @@
-# What is this for?
+# What is this project for?
 
 This is for github open source repositories to generate weekly/monthly reports, into markdown.
 
